@@ -1,0 +1,38 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(149, 194, 196);
+}
+
+.argula {
+    float: right;
+    width: 50%;
+}
+
+.argula2 {
+    clear: right;
+}
+
+img {
+    width: 30%;
+    height: auto;
+}
+
+
+a {
+    font-size: larger;
+}
+
+.friedrice {
+    float: right;
+    width: 20%;
+}
+
+.friedrice2{
+    clear: right;
+}
+
+p {
+    margin: 10px;
+    padding: 10px;
+    font-size: larger;
+}
